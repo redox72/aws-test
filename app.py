@@ -1,5 +1,5 @@
 """Main application fitestsetle"""
-from flask import Flaskcvxcvxcv
+from flask import Fl123askcvxcvxcv
 app = Flask(__name__)
 
 @app.route('/<random_string>')
